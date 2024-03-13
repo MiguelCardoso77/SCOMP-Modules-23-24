@@ -4,7 +4,7 @@
 #include <signal.h>
 #include <sys/types.h>
 
-void signalHandler(int sig) {
+void signalHandler() {
     printf("Handled SIGUSR1. \n");
 }
 
