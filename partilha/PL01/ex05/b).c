@@ -1,0 +1,1 @@
+// Sim, é possível, pois o primeiro processo pode imprimir 1, 2, 3 e o processo seguinte imprimir o 1 a seguir ao 3 anterior.

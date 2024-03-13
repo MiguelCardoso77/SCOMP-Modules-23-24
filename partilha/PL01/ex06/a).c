@@ -1,0 +1,1 @@
+// Não, pois cada processo tem o seu espaço de memória e não conseguem aceder à memória de outros processos.

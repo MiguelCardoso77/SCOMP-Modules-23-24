@@ -1,0 +1,1 @@
+// Não, porque ao fazer fork não sabemos a ordem em que os processos vão ser executados.

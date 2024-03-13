@@ -1,0 +1,1 @@
+// A frase é mostrada 4 vezes na tela, uma vez que existem 4 processos a executar essa linha 1 vez.

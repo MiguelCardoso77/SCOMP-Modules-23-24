@@ -1,0 +1,1 @@
+// Esperar que um filho acabe de ser executado antes de criar outro filho é uma forma de garantir que os processos são executados na ordem que queremos.

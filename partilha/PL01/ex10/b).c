@@ -1,0 +1,1 @@
+// Os outros processos vão também procurar o valor de x no array, sendo esta solução pouco otimizada.

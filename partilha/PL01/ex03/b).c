@@ -1,0 +1,1 @@
+// “Computer Systems” é mostrado 16 vezes no ecrã, 2^4 = 16
