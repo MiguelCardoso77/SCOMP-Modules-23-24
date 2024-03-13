@@ -1,10 +1,28 @@
-# ISEP LEI - SCOMP
-## Modules 23/24
+# ISEP-SCOMP-2024
 
-### Repository Structure
-The exercises are organized in folders corresponding to each module. Each folder contains the source code file and a Makefile.
+##### EN (Computational Systems)
+Resolution of SCOMP unit course modules.
 
-### How to use
-Using the provided virtual machine, the user can compile the source code using "make run".
+Language used: C
 
-# By Miguel Cardoso
+Each module has the respective statement in its folder.
+
+--------------------------------
+
+2º Year, 2º Semester
+
+--------------------------------
+##### PT (Sistemas de Computadores)
+Resolução dos módulos de SCOMP.
+
+Linguagem usada: C
+
+Cada módulo tem o respetivo enunciado na sua pasta.
+
+--------------------------------
+
+2º Ano, 2º Semestre
+
+--------------------------------
+
+## By Miguel Cardoso
